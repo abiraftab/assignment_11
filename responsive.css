@@ -1,0 +1,25 @@
+@media(max-width:767px){
+    .feature_content{
+        margin-bottom: 30px;
+    }
+    .feature_item{
+        text-align: center;
+    }
+    .feature_item .list-inline .list-inline-item h4{
+        margin-top: 20px;
+    }
+    .banner_het {
+    min-height: 500px;
+    }
+    .dash_section img {
+    width: 190px;
+}
+}
+@media(max-width:575){
+    .feature_item .list-inline .list-inline-item{
+        display: block;
+    }
+    .dash_section img {
+    width: 130px;
+}
+}
